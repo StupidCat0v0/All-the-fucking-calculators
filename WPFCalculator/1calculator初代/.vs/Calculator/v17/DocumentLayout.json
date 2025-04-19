@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stupid Cat\\Desktop\\\u6843\\tyrano.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\newpage\\concisepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:newpage\\concisepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\newpage\\belowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:newpage\\belowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\newpage\\historycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:newpage\\historycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\view\\defaultstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:view\\defaultstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|c:\\users\\stupid cat\\desktop\\calculator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefaultStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\View\\DefaultStyle.xaml",
+              "RelativeDocumentMoniker": "View\\DefaultStyle.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\View\\DefaultStyle.xaml",
+              "RelativeToolTip": "View\\DefaultStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T10:16:01.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tyrano.ico - Icon [128x128, 32 \u4F4D, BMP]",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\\u6843\\tyrano.ico",
+              "RelativeDocumentMoniker": "..\\\u6843\\tyrano.ico",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\\u6843\\tyrano.ico - Icon [128x128, 32 \u4F4D, BMP]",
+              "RelativeToolTip": "..\\\u6843\\tyrano.ico - Icon [128x128, 32 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-19T09:41:21.201Z",
+              "EditorCaption": " - Icon [128x128, 32 \u4F4D, BMP]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T08:35:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:34:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BelowPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\BelowPage.xaml",
+              "RelativeDocumentMoniker": "NewPage\\BelowPage.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\BelowPage.xaml",
+              "RelativeToolTip": "NewPage\\BelowPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T10:15:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcisePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\ConcisePage.xaml",
+              "RelativeDocumentMoniker": "NewPage\\ConcisePage.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\ConcisePage.xaml",
+              "RelativeToolTip": "NewPage\\ConcisePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T10:15:19.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "historyControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\historyControl.xaml",
+              "RelativeDocumentMoniker": "NewPage\\historyControl.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\NewPage\\historyControl.xaml",
+              "RelativeToolTip": "NewPage\\historyControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T10:15:18.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T14:57:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T14:57:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Calculator\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:57:32.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<Window xmlns="https://github.com/avaloniaui"
+		
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" Height="460" MinHeight="460" Width="280" MinWidth="280"
+        x:Class="Calculator.MainWindow"
+        Title="Calculator" Background="Black">
+
+	<Window.Styles>
+		<Style Selector="Window">
+			<Setter Property="ExtendClientAreaToDecorationsHint" Value="True"></Setter>
+		</Style>
+	</Window.Styles>
+
+	<Border Width="200" Height="100" CornerRadius="10">
+		<Border.Background>
+			<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+				<!-- 使用 x:Name 为 GradientStop 命名 -->
+				<GradientStop x:Name="Stop1" Color="#FF00FF" Offset="0.0" />
+				<GradientStop x:Name="Stop2" Color="#00FF00" Offset="0.5" />
+				<GradientStop x:Name="Stop3" Color="#0000FF" Offset="1.0" />
+			</LinearGradientBrush>
+		</Border.Background>
+	</Border>
+
+</Window>

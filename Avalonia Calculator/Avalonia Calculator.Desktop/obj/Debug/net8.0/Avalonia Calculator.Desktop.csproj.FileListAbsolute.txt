@@ -1,0 +1,194 @@
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.exe
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.deps.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.runtimeconfig.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.LinuxFramebuffer.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Contracts.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Foundation.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Linux.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Logging.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Modbus.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Units.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Windows.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\NetEscapades.Configuration.Yaml.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia.9C09FC88.Up2Date
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\refint\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.genruntimeconfig.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator.Desktop\obj\Debug\net8.0\ref\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.exe
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.deps.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.runtimeconfig.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.Desktop.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.LinuxFramebuffer.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Contracts.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Foundation.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Linux.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Logging.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Modbus.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Units.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Meadow.Windows.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\NetEscapades.Configuration.Yaml.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\bin\Debug\net8.0\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia.9C09FC88.Up2Date
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\refint\Avalonia Calculator.Desktop.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\Avalonia Calculator.Desktop.genruntimeconfig.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator.Desktop\obj\Debug\net8.0\ref\Avalonia Calculator.Desktop.dll

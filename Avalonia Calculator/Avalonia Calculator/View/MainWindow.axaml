@@ -1,0 +1,30 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Avalonia_Calculator.ViewModels"
+		xmlns:controls="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:views="clr-namespace:Avalonia_Calculator.Views" CanResize="True"
+         x:Class="Avalonia_Calculator.Views.MainWindow" mc:Ignorable="d"
+        Title="Calculator" Icon="/Assets/Calculator.ico" Loaded="Window_Loaded"
+		Height="460" MinHeight="460" Width="280" MinWidth="280" FontFamily="方正粗黑宋简体">
+
+	<Window.Styles>
+		<Style Selector="Window">
+		</Style>
+	</Window.Styles>
+
+	<Grid>
+		<Grid.Background>
+			<LinearGradientBrush StartPoint="0%,0%" EndPoint="100%,100%">
+				<GradientStop Color="#1F1721" Offset="0.3" />
+				<GradientStop Color="#381E40" Offset="1.0" />
+			</LinearGradientBrush>
+		</Grid.Background>
+
+		<Grid Name="MainGrid0"/>
+
+		<Grid Name="MainGrid1"/>
+	</Grid>
+
+</Window>

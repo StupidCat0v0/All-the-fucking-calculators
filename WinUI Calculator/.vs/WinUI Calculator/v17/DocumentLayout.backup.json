@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|d:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\winui calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|d:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\winui calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|d:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\winui calculator\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|solutionrelative:app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|d:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\winui calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8131398-D4AA-4445-871D-A4369C9D7B63}|WinUI Calculator.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:56:04.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T19:45:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:55:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\\u6240\u6709tmd\u8BA1\u7B97\u5668\\WinUI Calculator\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T19:55:00.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

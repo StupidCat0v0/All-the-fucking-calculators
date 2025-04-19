@@ -1,0 +1,28 @@
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.deps.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\refint\Avalonia\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\obj\Debug\net8.0\ref\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.deps.json
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\bin\Debug\net8.0\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\Avalonia\Avalonia Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\refint\Avalonia\Avalonia Calculator.dll
+C:\Users\Stupid Cat\Desktop\Avalonia Calculator\Avalonia Calculator\obj\Debug\net8.0\ref\Avalonia Calculator.dll

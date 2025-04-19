@@ -1,0 +1,86 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator" mc:Ignorable="d"
+        Loaded="Window_Loaded" FontFamily="方正粗黑宋简体" 
+        Title="Calculator" Height="435" Width="270" MinHeight="435" MinWidth="270"
+        FontWeight="ExtraLight" FontSize="10" 
+        WindowStartupLocation="CenterScreen"
+        Background="{x:Null}" WindowStyle="None" AllowsTransparency="True"
+        Icon="/Assets/calculator.png" >
+    <Window.Resources>
+
+        <Storyboard x:Key="FadeOutStoryboard">
+            <DoubleAnimation 
+                Storyboard.TargetName="openBorder"
+                Storyboard.TargetProperty="Opacity"
+                From="1" To="0" Duration="0:0:0.4"  BeginTime="0:0:1"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <!--WindowResizeAdorner 设置窗口拖动调整大小限制-->
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome GlassFrameThickness ="10" CaptionHeight="0" UseAeroCaptionButtons="True"  CornerRadius="10"/>
+    </WindowChrome.WindowChrome>
+    <Grid>
+
+        <Border Margin="2" x:Name="Effect"  CornerRadius="10">
+            <Border.Effect>
+                <DropShadowEffect Color="White" ShadowDepth="0" BlurRadius="3" Direction="0" />
+            </Border.Effect>
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                    <GradientStop Color="#231D26" Offset="0.0"/>
+                    <GradientStop Color="#3C2333" Offset="1.1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid>
+
+                <Frame Name="MainPageFrame"/>
+
+                <!--启动画面-->
+                <Border x:Name="openBorder" CornerRadius="10" IsHitTestVisible="False">
+
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                            <GradientStop Color="#231D26" Offset="0.0"/>
+                            <GradientStop Color="#3C2333" Offset="1.1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <Grid>
+                        <Button Content="&#xe612;" Foreground="White" FontSize="47">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Grid Background="Transparent">
+                                        <Border x:Name="closeback" Background="Transparent">
+                                            <TextBlock Text="{Binding Content, RelativeSource={RelativeSource AncestorType=Button,
+                                        Mode=FindAncestor}}" VerticalAlignment="Center" HorizontalAlignment="Center"
+                                        FontFamily="/Assets/#iconfont" />
+                                        </Border>
+                                    </Grid>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                    </Grid>
+                </Border>
+
+                <!-- 用于调整大小的边框 -->
+                <ResizeGrip x:Name="resizeGrip" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                    Width="16" Height="16" Visibility="Visible"/>
+            </Grid>
+
+        </Border>
+        
+        <Border>
+            
+        </Border>
+    </Grid>
+</Window>
+
+    

@@ -1,0 +1,68 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="Avalonia_Calculator.StartPage"
+			Background="Black">
+
+	<UserControl.Styles>
+		<Style Selector="Border.StartBorder">
+			<Setter Property="Opacity" Value="1.0"/>
+			<Style.Animations>
+				<Animation Duration="0:0:0.3" Delay="0:0:1" FillMode="Forward">
+					<KeyFrame Cue="0%">
+						<Setter Property="Opacity" Value="1.0"/>
+					</KeyFrame>
+					<KeyFrame Cue="100%">
+						<Setter Property="Opacity" Value="0.0"/>
+					</KeyFrame>
+				</Animation>
+			</Style.Animations>
+		</Style>
+	</UserControl.Styles>
+	
+
+	<Grid>
+		<Border>
+			<Grid>
+				<Line Classes="SlantLine0" Stroke="White" StrokeThickness="4"
+					  StartPoint="45,0" EndPoint="0,460">
+				</Line>
+
+				<Line Classes="SlantLine1" Stroke="White" StrokeThickness="4"
+					  StartPoint="94,0" EndPoint="49,460">
+				</Line>
+
+				<Line Classes="SlantLine2" Stroke="White" StrokeThickness="4"
+					  StartPoint="143,0" EndPoint="98,460">
+				</Line>
+
+				<Line Classes="SlantLine3" Stroke="White" StrokeThickness="4"
+					  StartPoint="192,0" EndPoint="147,460">
+				</Line>
+
+				<Line Classes="SlantLine4" Stroke="White" StrokeThickness="4"
+					  StartPoint="241,0" EndPoint="196,460">
+				</Line>
+
+				<Line Classes="SlantLine5" Stroke="White" StrokeThickness="4"
+					  StartPoint="280,0" EndPoint="245,460">
+				</Line>
+			</Grid>
+		</Border>
+
+		<Border Classes="StartBorder">
+			<Border.Background>
+				<LinearGradientBrush StartPoint="0%,0%" EndPoint="100%,100%">
+					<GradientStop Color="#1F1721" Offset="0.3" />
+					<GradientStop Color="#381E40" Offset="1.0" />
+				</LinearGradientBrush>
+			</Border.Background>
+
+			<Button Content="&#xE8Ef;" FontFamily="{StaticResource CalculatorFont}"
+					 FontSize="54" Foreground="White" Background="Transparent"
+					 VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+		</Border>
+	</Grid>
+</UserControl>

@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\newpage\\concisepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:newpage\\concisepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\newpage\\concisepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:newpage\\concisepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|d:\\\u7A0B\u5E8F\\c#\\wpfcalculator\\calculator-bate-main - \u526F\u672C\\tool\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0808B8-4050-4F7F-AB35-60F8F3774C44}|Calculator.csproj|solutionrelative:tool\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-02T08:49:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:29:11.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T13:29:06.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcisePage.xaml",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\NewPage\\ConcisePage.xaml",
+              "RelativeDocumentMoniker": "NewPage\\ConcisePage.xaml",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\NewPage\\ConcisePage.xaml",
+              "RelativeToolTip": "NewPage\\ConcisePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:16:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\Tool\\Animation.cs",
+              "RelativeDocumentMoniker": "Tool\\Animation.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\Tool\\Animation.cs",
+              "RelativeToolTip": "Tool\\Animation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:34:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "concisepage.xaml.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\NewPage\\concisepage.xaml.cs",
+              "RelativeDocumentMoniker": "NewPage\\concisepage.xaml.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\C#\\WPFCalculator\\Calculator-Bate-main - \u526F\u672C\\NewPage\\concisepage.xaml.cs",
+              "RelativeToolTip": "NewPage\\concisepage.xaml.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAiwGoBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:57:26.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

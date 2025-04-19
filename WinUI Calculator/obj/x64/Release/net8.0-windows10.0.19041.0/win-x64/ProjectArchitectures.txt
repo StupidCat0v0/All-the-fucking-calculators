@@ -1,0 +1,1 @@
+D:\程序\所有tmd计算器\WinUI Calculator\WinUI Calculator.csproj;x64

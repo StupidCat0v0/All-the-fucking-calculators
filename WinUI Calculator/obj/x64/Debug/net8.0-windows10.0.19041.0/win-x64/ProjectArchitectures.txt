@@ -1,0 +1,1 @@
+C:\Users\Stupid Cat\Desktop\WinUI Calculator\WinUI Calculator.csproj;x64

@@ -1,0 +1,124 @@
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\View\DefaultStyle.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\View\ScrollViewerDictionary.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.cache
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.lref
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.baml
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.g.resources
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Stupid Cat\Desktop\Calculator-Bate-main\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\View\DefaultStyle.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\View\ScrollViewerDictionary.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.cache
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.lref
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.baml
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.g.resources
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Stupid Cat\Desktop\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\ref\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.exe
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\bin\Debug\net8.0-windows\Calculator.pdb
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\View\DefaultStyle.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\View\ScrollViewerDictionary.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\App.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator_MarkupCompile.lref
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\App.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\MainWindow.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\BelowPage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\ConcisePage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\historyControl.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\NewPage\SidePage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.g.resources
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.pdb
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main\obj\Debug\net8.0-windows\ref\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\View\DefaultStyle.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\View\ScrollViewerDictionary.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\BelowPage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\ConcisePage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\historyControl.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\SidePage.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\App.g.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator_MarkupCompile.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator_MarkupCompile.lref
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.pdb
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\bin\Debug\net8.0-windows\Calculator.exe
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\bin\Debug\net8.0-windows\Calculator.dll
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\bin\Debug\net8.0-windows\Calculator.pdb
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\App.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\MainWindow.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\BelowPage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\ConcisePage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\historyControl.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\NewPage\SidePage.baml
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.g.resources
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\程序\C#\WPFCalculator\Calculator-Bate-main - 副本\obj\Debug\net8.0-windows\ref\Calculator.dll

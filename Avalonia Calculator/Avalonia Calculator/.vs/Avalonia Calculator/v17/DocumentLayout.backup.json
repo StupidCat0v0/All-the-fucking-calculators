@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|c:\\users\\stupid cat\\desktop\\avalonia calculator\\avalonia calculator\\view\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|solutionrelative:view\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|c:\\users\\stupid cat\\desktop\\avalonia calculator\\avalonia calculator\\view\\startpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|solutionrelative:view\\startpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|c:\\users\\stupid cat\\desktop\\avalonia calculator\\avalonia calculator\\view\\startpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|solutionrelative:view\\startpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|c:\\users\\stupid cat\\desktop\\avalonia calculator\\avalonia calculator\\view\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE3299D-BC23-5C92-EB08-021C5C504A7A}|Avalonia Calculator.csproj|solutionrelative:view\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartPage.axaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\StartPage.axaml",
+              "RelativeDocumentMoniker": "View\\StartPage.axaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\StartPage.axaml",
+              "RelativeToolTip": "View\\StartPage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T06:16:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\StartPage.axaml.cs",
+              "RelativeDocumentMoniker": "View\\StartPage.axaml.cs",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\StartPage.axaml.cs",
+              "RelativeToolTip": "View\\StartPage.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:16:15.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\MainWindow.axaml",
+              "RelativeToolTip": "View\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T06:45:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Stupid Cat\\Desktop\\Avalonia Calculator\\Avalonia Calculator\\View\\MainWindow.axaml.cs",
+              "RelativeToolTip": "View\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:18:07.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
